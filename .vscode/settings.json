@@ -1,0 +1,7 @@
+{
+    "workbench.settings.editor": "ui",
+    "terminal.integrated.automationProfile.osx": {
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+    }
+}
